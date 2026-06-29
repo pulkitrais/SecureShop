@@ -1,0 +1,6 @@
+{
+  "name": "SecureShop",
+  "description": "A modern, premium, ultra-minimal e-commerce website.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
